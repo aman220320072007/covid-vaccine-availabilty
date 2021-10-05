@@ -2,9 +2,6 @@
 
 Script to check the available slots for Covid-19 Vaccination Centers from CoWIN API in India. This CANNOT book slots automatically. The Indian Government had blocked the API for crawlers, but we are good to go.
 
-<p align="center">
-  <img src=https://socialify.git.ci/bhattbhavesh91/cowin-vaccination-slot-availability/image?font=KoHo&forks=1&language=1&owner=1&pattern=Charlie%20Brown&stargazers=1&theme=Dark>
-</p>
 
 
 
