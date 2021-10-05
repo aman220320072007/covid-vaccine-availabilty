@@ -6,14 +6,8 @@ Script to check the available slots for Covid-19 Vaccination Centers from CoWIN 
   <img src=https://socialify.git.ci/bhattbhavesh91/cowin-vaccination-slot-availability/image?font=KoHo&forks=1&language=1&owner=1&pattern=Charlie%20Brown&stargazers=1&theme=Dark>
 </p>
 
-**If you like my work, you can support me by buying me a coffee by clicking the link below**
 
-<a href="https://www.buymeacoffee.com/bhattbhavesh91" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
-<!---
-[Click to view the Website](https://bit.ly/3eQkvgl)
-[Click to view the Website](https://bit.ly/3ob9l94)
--->
 
 The [CoWin API](https://apisetu.gov.in/public/marketplace/api/cowin) currently states : "Further, these APIs are subject to a rate limit of 100 API calls per 5 minutes per IP". I tried deploying the Web Application but the API is blocking the request. You can easily run the web application on your machine by following the steps mentioned below.
 &nbsp;
@@ -67,27 +61,4 @@ If `Anaconda` doesn't appear on the first line, you are using a different versio
 &nbsp;
 [Link to the article 2](https://yourstory.com/2021/05/paytm-launches-covid-19-vaccine-finder-tracks-slot-availability/amp)
 
-## To view the video
 
-<table>
-   <tr>
-      <td><a href="http://www.youtube.com/watch?v=tZ2xA19ZALA" target="_blank"><img height="50" src = "https://img.shields.io/youtube/views/tZ2xA19ZALA?color=blue&label=Watch%20on%20YouTube&logo=youtube&logoColor=red&style=for-the-badge"></a></td>
-   </tr>
-</table>
-
-or click on the image below
-
-[![Python Script to Track Available Slots For Covid-19 Vaccinations in India](http://img.youtube.com/vi/tZ2xA19ZALA/0.jpg)](http://www.youtube.com/watch?v=tZ2xA19ZALA)
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbhattbhavesh91%2Fcowin-vaccination-slot-availability&count_bg=%233D8CC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Repository+Visits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-### Want to know more about me?
-## Follow Me
-<a href="https://twitter.com/_bhaveshbhatt" target="_blank"><img class="ai-subscribed-social-icon" src="https://bhattbhavesh91.github.io/assets/images/tw.png" width="30"></a>
-<a href="https://www.youtube.com/bhaveshbhatt8791/" target="_blank"><img class="ai-subscribed-social-icon" src="https://bhattbhavesh91.github.io/assets/images/ytb.png" width="30"></a>
-<a href="https://www.youtube.com/PythonTricks/" target="_blank"><img class="ai-subscribed-social-icon" src="https://bhattbhavesh91.github.io/assets/images/python_logo.png" width="30"></a>
-<a href="https://github.com/bhattbhavesh91" target="_blank"><img class="ai-subscribed-social-icon" src="https://bhattbhavesh91.github.io/assets/images/gthb.png" width="30"></a>
-<a href="https://www.linkedin.com/in/bhattbhavesh91/" target="_blank"><img class="ai-subscribed-social-icon" src="https://bhattbhavesh91.github.io/assets/images/lnkdn.png" width="30"></a>
-
-<!--- <h3 align="center">Show your &nbsp;❤️&nbsp; & support by starring the repository!</h3>-->
-<h3 align="center">Show your support by starring the repository 😊</h3>
