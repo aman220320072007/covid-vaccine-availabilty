@@ -50,7 +50,7 @@ If `Anaconda` doesn't appear on the first line, you are using a different versio
   Network URL: http://192.168.1.7:8501
 
 # Demo
-![](https://github.com/aman220320072007/covid-vaccine-availabilty/blob/main/demo/demo_1.gif)
+![](https://github.com/aman220320072007/covid-vaccine-availabilty/blob/3a9df761f750b3dcf8acb140c3b35f0e1912683e/demo_1.gif)
 
 
 
