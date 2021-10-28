@@ -41,7 +41,7 @@ If `Anaconda` doesn't appear on the first line, you are using a different versio
 - Enter the command - `cd covid-vaccine-availabilty`
 - Install all the dependencies - `! pip3 install -r requirements.txt`
 - Run Anaconda Promt (Run as Administrator) From Start Menu.
-- Go to your Directory Eg `cd C:\Users\lenovo\Desktop\Jupyter Notebooks\2021\Cowin\cowin-vaccination-slot-availability`
+- Go to your Directory Eg `cd C:\Users\lenovo\Desktop\Jupyter Notebooks\2021\Cowin\covid-vaccine-availabilty`
 - Run `streamlit run app.py`
 
 -   You can now view your Streamlit app in your browser.
